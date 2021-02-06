@@ -1,0 +1,137 @@
+{
+  "uuid": "9d7e99dfcf211d795aa2420e4dc6db49",
+  "path": "Offline/d_00_e_04",
+  "name": "d_00_e_04",
+  "content": "",
+  "created_at": "2021-02-06 21:31:03",
+  "updated_at": "2021-02-06 22:09:38",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "946db6c3f901b4c5d6d06835e28474b3",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "13fbe66358ac415f8f844f8a7a60755f": 1,
+        "211d7386991f4f8c82becf63dab5e7bc": 2,
+        "dae7f97ebfa34b9a8267d29ce0d9d6dd": 3,
+        "4be50b92e47b4f88a54e127c17ce78cb": 1,
+        "9746a1dd250c492da43ea9f347d91e20": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          1,
+          "RAD-0.1",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "d8f3b09873bf4bf89243089a133a0e9f",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "12",
+          1,
+          "HDR1X2",
+          "U1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "13fbe66358ac415f8f844f8a7a60755f"
+          }
+        ],
+        [
+          "Multimeter",
+          2,
+          "",
+          "A2,V1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "61cabdd4cf294840a57028c68cec183b",
+            "uuid": "211d7386991f4f8c82becf63dab5e7bc"
+          }
+        ],
+        [
+          "1m",
+          1,
+          "AXIAL-0.4",
+          "L1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "9746a1dd250c492da43ea9f347d91e20"
+          }
+        ],
+        [
+          "240R76",
+          1,
+          "AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ],
+        [
+          "1K",
+          1,
+          "AXIAL-0.3",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ],
+        [
+          "682R3",
+          1,
+          "AXIAL-0.3",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ]
+      ],
+      "updateTime": 1612638578,
+      "createTime": 1612637222,
+      "histories": [],
+      "created_at": "2021-02-06 21:47:02",
+      "updated_at": "2021-02-06 22:09:38"
+    }
+  ],
+  "sort": [],
+  "title": "d_00_e_04",
+  "foldername": "d_00_e_04",
+  "schfilename": "d_00_e_04.json",
+  "schfilemtime": 1612638578101
+}

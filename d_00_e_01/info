@@ -1,0 +1,82 @@
+{
+  "uuid": "8d94fdacd8f9e45241717a4ca19315f7",
+  "path": "Offline/d_00_e_01",
+  "name": "d_00_e_01",
+  "content": "",
+  "created_at": "2021-02-06 20:26:20",
+  "updated_at": "2021-02-06 20:38:25",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "1fb5d4a7ba6d604d1c3168bed49401b4",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "211d7386991f4f8c82becf63dab5e7bc": 3,
+        "dae7f97ebfa34b9a8267d29ce0d9d6dd": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Multimeter",
+          3,
+          "",
+          "XMM1,XMM2,XMM3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "61cabdd4cf294840a57028c68cec183b",
+            "uuid": "211d7386991f4f8c82becf63dab5e7bc"
+          }
+        ],
+        [
+          "1K",
+          1,
+          "AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ],
+        [
+          "400",
+          2,
+          "AXIAL-0.3",
+          "R2,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ]
+      ],
+      "updateTime": 1612633105,
+      "createTime": 1612632838,
+      "histories": [],
+      "created_at": "2021-02-06 20:33:58",
+      "updated_at": "2021-02-06 20:38:25"
+    }
+  ],
+  "sort": [],
+  "title": "d_00_e_01",
+  "foldername": "d_00_e_01",
+  "schfilename": "d_00_e_01.json",
+  "schfilemtime": 1612633105085
+}

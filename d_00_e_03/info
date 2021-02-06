@@ -1,0 +1,109 @@
+{
+  "uuid": "b48a59e79c93d40c931eb7f585b2f188",
+  "path": "Offline/d_00_e_03",
+  "name": "d_00_e_03",
+  "content": "",
+  "created_at": "2021-02-06 21:11:12",
+  "updated_at": "2021-02-06 21:30:48",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "68a1d1bd6d1b8cb8bec7c938b94fbe43",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "13fbe66358ac415f8f844f8a7a60755f": 1,
+        "dae7f97ebfa34b9a8267d29ce0d9d6dd": 3,
+        "211d7386991f4f8c82becf63dab5e7bc": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "12",
+          1,
+          "HDR1X2",
+          "V1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "13fbe66358ac415f8f844f8a7a60755f"
+          }
+        ],
+        [
+          "Multimeter",
+          3,
+          "",
+          "A1,A2,XMM3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "61cabdd4cf294840a57028c68cec183b",
+            "uuid": "211d7386991f4f8c82becf63dab5e7bc"
+          }
+        ],
+        [
+          "422",
+          1,
+          "AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ],
+        [
+          "264",
+          1,
+          "AXIAL-0.3",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ],
+        [
+          "48",
+          1,
+          "AXIAL-0.3",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "dae7f97ebfa34b9a8267d29ce0d9d6dd"
+          }
+        ]
+      ],
+      "updateTime": 1612636248,
+      "createTime": 1612635662,
+      "histories": [],
+      "created_at": "2021-02-06 21:21:02",
+      "updated_at": "2021-02-06 21:30:48"
+    }
+  ],
+  "sort": [],
+  "title": "d_00_e_03",
+  "foldername": "d_00_e_03",
+  "schfilename": "d_00_e_03.json",
+  "schfilemtime": 1612636248609
+}
